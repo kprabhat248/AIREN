@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "547857932394",
+    "project_id": "airen-2a4ff",
+    "storage_bucket": "airen-2a4ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547857932394:android:dd0783a50fc57afd916a13",
+        "android_client_info": {
+          "package_name": "com.example.chat_gpt_02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547857932394-g3t1o04sk4c5ga8nl1k0unc0etsjh708.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnNM1-Az8HcvXqCs8U4uFwT43fIHNOPSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547857932394-g3t1o04sk4c5ga8nl1k0unc0etsjh708.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
